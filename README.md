@@ -1,8 +1,10 @@
 2026/09/16 13:57:21
 
-<!-- notify 1/2 · 9pqpbkqn -->
-## Notification 1/2
-Round: Round 1
-To: tmoriarty24@hotmail.com, gjb@hfsllp.com
-At: 2026-09-16 13:57:29
-Id: 9pqpbkqn
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: kylehawk@aol.com, ljfinnell@yahoo.com
+At: 2026-09-16 13:57:37
+Id: cMkZQGtj
